@@ -1,0 +1,3 @@
+{"Collections":
+	[{"sheetName":"stations-velhop","startColumn":"A","endColumn":"G","startRow":"2","endRow":"+","comment":"",
+	"rule":"Individual: @B*\nTypes: Station_De_Velo\nFacts: name @A*\nFacts: latitude @C*\nFacts: longitude @D*\nFacts: VelosLibres @E*\nFacts: PlacesOccupees @F*\nFacts: City @G*","active":true}]}
